@@ -22,5 +22,3 @@ public class Main {
         }
     }
 }
-
-/*Java-based real-time event processing system that tracks trending topics using a sliding window algorithm and retrieves Top-K frequent elements using a priority queue.*/
